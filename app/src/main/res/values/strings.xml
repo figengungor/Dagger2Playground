@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Dagger2Playground</string>
+    <string name="welcome_first_time_message">Welcome! It\'s either your FIRST TIME around here or you just cleared app data.</string>
+    <string name="welcome_back_message">Welcome, back! It\'s good to see you, AGAIN!</string>
 </resources>

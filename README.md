@@ -1,3 +1,11 @@
-# [Dagger 2](https://github.com/google/dagger) Playground
+# Play 1: Welcome
 
-One branch for one play
+Simple usage of Dagger 2
+
+Meet with annotations: @Module, @Provides, @Component and @Inject
+
+Dependencies: Context, SharedPreferences, PreferencesHelper
+
+What does this app do?
+
+Checks if the user is first timer and displays a message accordingly.
